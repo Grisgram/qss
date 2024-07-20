@@ -8,7 +8,7 @@ The Source Code of qss is not open source currently. This repository offers docu
 
 Read on in the [wiki](https://github.com/Grisgram/qss/wiki)!
 
-Yours,
-Gris
+Yours,\
+Gris\
 _Coldrock Games_
 
