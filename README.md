@@ -6,7 +6,10 @@
 
 ### Welcome to the documentation repository of qss!
 
-The Source Code of qss is not open source currently. This repository offers documentation and examples for the `qss` sql generator command line tool by _Coldrock Games_. I am the founder and owner of [Coldrock Games](https://www.coldrock.games/).
+This repository offers documentation and examples for the `qss` sql generator command line tool by _[Coldrock Games](https://www.coldrock.games/)_.
+The Source Code of qss is not open source currently.
+
+Aquire your license for qss at itch.io.
 
 Read on in the [wiki](https://github.com/Grisgram/qss/wiki)!
 
