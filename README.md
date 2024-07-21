@@ -12,7 +12,7 @@ The Source Code of qss is not open source currently.
 
 Aquire your license for qss at [itch.io](https://grisgram.itch.io/qss-quick-sql-scripts).
 
-Read on in the [wiki](https://github.com/Grisgram/qss/wiki)!
+Read on in the [wiki](https://github.com/Grisgram/qss/wiki) and make sure, to look at the [Examples](https://github.com/Grisgram/qss/wiki/Examples)!
 
 Yours,\
 Gris\
