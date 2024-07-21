@@ -1,6 +1,6 @@
 # qss - Quick Sql Scripts
 
-![image](https://github.com/user-attachments/assets/30ff7749-b4fe-4583-a37a-f500928ebb94)![image](https://github.com/user-attachments/assets/2ca89328-abe8-4d2c-b654-4df479772785)
+![image](https://github.com/user-attachments/assets/5036989a-b28e-492a-8634-cda86bfe95e7)![image](https://github.com/user-attachments/assets/2ca89328-abe8-4d2c-b654-4df479772785)
 
 
 
