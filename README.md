@@ -1,4 +1,4 @@
-<h1 align="center">Latest Version: 2.4</h1>
+<h1 align="center">Latest Version: 2.4 (2024-07-26)</h1>
 
 |||
 |:-:|---|
