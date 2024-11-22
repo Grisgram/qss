@@ -9,8 +9,6 @@
 > **The qss-oneliner:**\
 > _Create your data model in minutes with a robust, professional, secure database design._
 
-![image](https://github.com/user-attachments/assets/5036989a-b28e-492a-8634-cda86bfe95e7)![image](https://github.com/user-attachments/assets/2ca89328-abe8-4d2c-b654-4df479772785)
-
 Yours,\
 Gris\
 _Coldrock Games_
